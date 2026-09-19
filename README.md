@@ -1,23 +1,24 @@
 # 💊 MEDIX
-
 ### Smart Pharmacy Store Management & Intelligence System
 
-<p align="center">
-  <img src="screenshots/medix_logo.png" alt="MEDIX Logo" width="180"/>
-</p>
-
-<p align="center">
+<p>
   <strong>A modern, full-stack pharmacy management system powered by React, FastAPI and MySQL.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Status-Tier%201%20Complete-22C55E?style=for-the-badge" alt="Build Status"/>
+  <img src="screenshots/medix_demo.gif" alt="MEDIX Project Demo" width="100%"/>
 </p>
+
+
+<p>
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+
 
 <p align="center">
   <a href="#-overview">Overview</a> •
