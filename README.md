@@ -314,7 +314,7 @@ It can surface insights related to:
 ## ⏳ Expiry Radar
 
 <p align="center">
-  <img src="screenshots/expiry_radar.png" alt="Expiry Radar" width="100%"/>
+  <img src="screenshots/expiry-radar.png" alt="Expiry Radar" width="100%"/>
 </p>
 
 ---
@@ -338,7 +338,7 @@ It can surface insights related to:
 ## 📜 Sales History
 
 <p align="center">
-  <img src="screenshots/sales-history.png" alt="Sales History" width="100%"/>
+  <img src="screenshots/sales_history.png" alt="Sales History" width="100%"/>
 </p>
 
 ---
