@@ -1,24 +1,41 @@
-# 💊 MEDIX
-### Smart Pharmacy Store Management & Intelligence System
+<h1 align="center">💊 MEDIX</h1>
+<h2 align="center">Smart Pharmacy Store Management & Intelligence System</h2>
 
-<p>
-  <strong>A modern, full-stack pharmacy management system powered by React, FastAPI and MySQL.</strong>
+<p align="center">
+  <strong>
+    A modern full-stack pharmacy management system built with React,
+    FastAPI and MySQL.
+  </strong>
 </p>
 
 <p align="center">
-  <img src="screenshots/medix_demo.gif" alt="MEDIX Project Demo" width="100%"/>
+
+<img src="https://img.shields.io/badge/⚛%20REACT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/▲%20TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/⚡%20VITE-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/🎨%20TAILWIND-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+
 </p>
 
+<p align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/🐍%20PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/🚀%20FASTAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/🗄%20MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/🔗%20SQLALCHEMY-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
+
 </p>
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/📊%20ANALYTICS-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/🔌%20REST%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/📱%20RESPONSIVE-0D1117?style=for-the-badge&logo=responsive&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/🌙%20DARK%20MODE-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
+</p>
+
+---
 
 <p align="center">
   <a href="#-overview">Overview</a> •
@@ -314,7 +331,7 @@ It can surface insights related to:
 ## ⏳ Expiry Radar
 
 <p align="center">
-  <img src="screenshots/expiry_radar.png" alt="Expiry Radar" width="100%"/>
+  <img src="screenshots/expiry-radar.png" alt="Expiry Radar" width="100%"/>
 </p>
 
 ---
@@ -338,7 +355,7 @@ It can surface insights related to:
 ## 📜 Sales History
 
 <p align="center">
-  <img src="screenshots/sales-history.png" alt="Sales History" width="100%"/>
+  <img src="screenshots/sales_history.png" alt="Sales History" width="100%"/>
 </p>
 
 ---
