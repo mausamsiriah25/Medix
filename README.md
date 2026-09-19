@@ -8,7 +8,7 @@
   </strong>
 </p>
 <p align="center">
-  <img src="screenshots/medix-demo.gif" alt="MEDIX Project Demo" width="100%"/>
+  <img src="screenshots/medix_demo.gif" alt="MEDIX Project Demo" width="100%"/>
 </p>
 
 <p align="center">
