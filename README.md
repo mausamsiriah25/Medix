@@ -7,6 +7,9 @@
     FastAPI and MySQL.
   </strong>
 </p>
+<p align="center">
+  <img src="screenshots/medix-demo.gif" alt="MEDIX Project Demo" width="100%"/>
+</p>
 
 <p align="center">
 
