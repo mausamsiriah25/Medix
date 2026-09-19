@@ -1,4 +1,4 @@
-# 💊 MEDIX
+# ⚕️MEDIX
 ### Smart Pharmacy Store Management & Intelligence System
 
 <p>
